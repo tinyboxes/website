@@ -27,13 +27,13 @@
 ### Graduate Research Student, NYU Langone Medical Center, New York City (Apr 2013 - Jul 2014)
 
 ## Education
-### Columbia University, New York City (Feb 2017)
+### Columbia University (Feb 2017)
 - Certificate in Premedical Sciences
 
 ### New York University (May 2014)
 - MS in Biology
 
-### University of the Philippines, US (Apr 2011)
+### University of the Philippines (Apr 2011)
 - BS in Molecular Biology and Biotechnology
 
 ## Skills

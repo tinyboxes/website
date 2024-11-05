@@ -1,5 +1,5 @@
 # Denise Sison
-917-744-5867 | den.sison@gmail.com |[LinkedIn](https://www.linkedin.com/in/denise-sison) | New York, New York
+917-744-5867 | den.sison@gmail.com | [LinkedIn](https://www.linkedin.com/in/denise-sison) | New York, New York
 
 ## Experience
 ### Data Scientist, Trusty.care, New York City (Sep 2019 - Present)

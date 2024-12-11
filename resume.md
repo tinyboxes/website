@@ -11,45 +11,6 @@
 
 Data Scientist with expertise in statistical analysis, machine learning, and data-driven problem-solving. Specializes in transforming complex scientific data into actionable insights. Proven ability to support operational excellence through advanced analytical techniques and cross-functional collaboration.
 
-## Technical Skills
-
-**Programming Languages:**
-
-* Python
-* R
-* SQL
-
-**Tools & Platforms:**
-
-* Git
-* Docker
-* Spark
-* AWS
-* ElasticSearch
-* GCP
-
-**Data Science Skills:**
-
-* Machine Learning
-* Predictive Modeling
-* ETL Pipelines
-
-**Visualization Tools:**
-
-* Matplotlib
-* Seaborn
-* Looker
-
-**Database Management:**
-
-* Query Optimization
-* Database Performance
-
-**Scientific Data Platforms:**
-
-* RxNorm
-* FDA Data Integration
-
 ## Professional Experience
 
 ### Data Scientist | Circle (formerly Trusty.care) | New York City (Sep 2019 - Present)
@@ -90,6 +51,11 @@ Data Scientist with expertise in statistical analysis, machine learning, and dat
 * Research Assistant | Icahn School of Medicine at Mount Sinai (Mar 2016 - May 2017)
 * Research Associate | Weill Cornell Medicine (Jan 2015 - Sep 2015)
 * Graduate Research Student | NYU Langone Medical Center (Apr 2013 - Jul 2014)
+
+## Technical Skills
+- Programming: Python, SQL, R,
+- Tools and Platforms: Git, Docker, Spark, AWS, GCP, ElasticSearch, Looker
+- Data Science: Machine Learning, Predictive Modeling, Biostatistics, ETL, Database Management, Data Acquisition, Data Analysis, Data Visualization, Web Scraping, Data Integration
 
 ## Education
 

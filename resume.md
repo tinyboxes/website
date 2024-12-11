@@ -1,11 +1,5 @@
-## Denise Sison
-
-**Contact**
-
-* Phone: 917-744-5867
-* Email: den.sison@gmail.com
-* LinkedIn: https://www.linkedin.com/in/denise-sison/
-* Location: New York, New York
+# Denise Sison
+917-744-5867 | den.sison@gmail.com | [LinkedIn](https://www.linkedin.com/in/denise-sison) | New York, New York
 
 ## Professional Summary
 

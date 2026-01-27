@@ -6,7 +6,7 @@ Data Engineer with 6+ years of experience architecting scalable data infrastruct
 
 ## Professional Experience
 
-### Data Engineer L4, Amazon Music - CAST Team (May 2025 - Present)
+### Data Engineer, Amazon Music - CAST Team (May 2025 - Present)
 
 - Led migration of Luminate ETL pipeline from S3 to Snowflake, coordinating AWS IAM Workload Identity Federation with external vendors, enabling real-time content acquisition analytics supporting multi-million dollar business decisions
 - Established privacy compliance infrastructure as team Privacy POC, implementing systematic compliance frameworks across 50+ datasets serving Business Intelligence customers across Games Finance, Trust, and international operations

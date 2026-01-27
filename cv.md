@@ -1,6 +1,6 @@
 # Denise Sison
 
-917-744-5867 | den.sison@gmail.com | linkedin.com/in/denise-sison | New York, New York
+917-744-5867 | den.sison@gmail.com | [linkedin](https://www.linkedin.com/in/denise-sison) | New York, New York
 
 ## Professional Summary
 
@@ -10,7 +10,7 @@ Data Engineer with 6+ years of experience architecting scalable data infrastruct
 
 ### Data Engineer, Amazon Music (May 2025 - Present)
 
-- Led migration of third-party music analytics ETL pipeline from S3 to Snowflake, coordinating AWS IAM Workload Identity Federation with external vendors, enabling real-time content acquisition analytics supporting multi-million dollar business decisions
+- Led migration of third-party music analytics ETL pipeline from Snowflake to S3, coordinating AWS IAM Workload Identity Federation with external vendors, enabling real-time content acquisition analytics supporting multi-million dollar business decisions
 - Established privacy compliance infrastructure as team Privacy Point of Contact, implementing systematic compliance frameworks across 50+ datasets serving Business Intelligence customers across multiple business units and international operations
 - Refactored external data provider infrastructure to support new product integration, creating reusable Infrastructure-as-Code patterns that standardized external data pipeline architecture across the team
 - Reduced monthly infrastructure costs by 50% ($12-13K to $5-6K) through systematic cloud resource optimization, establishing sustainable cost management practices and monitoring frameworks

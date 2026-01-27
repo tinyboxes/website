@@ -1,17 +1,19 @@
 # Denise Sison
+
 917-744-5867 | den.sison@gmail.com | New York, New York
 
 ## Professional Summary
+
 Data Engineer with 6+ years of experience architecting scalable data infrastructure across AWS and Snowflake. Proven track record delivering high-impact data pipelines supporting business intelligence and analytics at scale, with expertise in cost optimization, privacy compliance, and cross-functional technical leadership.
 
 ## Professional Experience
 
-### Data Engineer, Amazon Music - CAST Team (May 2025 - Present)
+### Data Engineer, Amazon Music (May 2025 - Present)
 
-- Led migration of Luminate ETL pipeline from S3 to Snowflake, coordinating AWS IAM Workload Identity Federation with external vendors, enabling real-time content acquisition analytics supporting multi-million dollar business decisions
-- Established privacy compliance infrastructure as team Privacy POC, implementing systematic compliance frameworks across 50+ datasets serving Business Intelligence customers across Games Finance, Trust, and international operations
-- Refactored Chartmetric data infrastructure to support Project Ya integration, creating reusable CDK patterns that standardized external data pipeline architecture across the team
-- Reduced monthly infrastructure costs by 50% ($12-13K to $5-6K) through systematic Cradle optimization, establishing sustainable cost management practices and monitoring frameworks
+- Led migration of third-party music analytics ETL pipeline from S3 to Snowflake, coordinating AWS IAM Workload Identity Federation with external vendors, enabling real-time content acquisition analytics supporting multi-million dollar business decisions
+- Established privacy compliance infrastructure as team Privacy Point of Contact, implementing systematic compliance frameworks across 50+ datasets serving Business Intelligence customers across multiple business units and international operations
+- Refactored external data provider infrastructure to support new product integration, creating reusable Infrastructure-as-Code patterns that standardized external data pipeline architecture across the team
+- Reduced monthly infrastructure costs by 50% ($12-13K to $5-6K) through systematic cloud resource optimization, establishing sustainable cost management practices and monitoring frameworks
 - Provided technical guidance to Business Intelligence Engineers through architecture reviews, query optimization recommendations, and infrastructure best practices
 - Collaborated with cross-functional teams across UK and Japan regions, ensuring data infrastructure supported global business intelligence requirements
 
@@ -46,7 +48,7 @@ Data Engineer with 6+ years of experience architecting scalable data infrastruct
 ## Skills
 
 - **Programming:** Python, SQL, R, Git, Docker, Spark
-- **Data Engineering:** ETL Pipelines, Data Lake Architecture, Data Modeling, Infrastructure-as-Code (CDK)
+- **Data Engineering:** ETL Pipelines, Data Lake Architecture, Data Modeling, Infrastructure-as-Code (CDK/CloudFormation)
 - **Cloud & Infrastructure:** AWS (S3, Lambda, Step Functions, DynamoDB, CloudFormation, Glue, IAM, RDS), Snowflake
-- **Data Tools:** AWS Glue, Looker, Amazon Textract, Kale Applications, BDT Tools
+- **Data Tools:** AWS Glue, Looker, Amazon Textract, Apache Airflow, dbt
 - **Specializations:** Privacy & Compliance Frameworks, Cost Optimization, Cross-functional Technical Leadership

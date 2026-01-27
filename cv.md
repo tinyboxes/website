@@ -1,6 +1,6 @@
 # Denise Sison
 
-917-744-5867 | den.sison@gmail.com | New York, New York
+917-744-5867 | den.sison@gmail.com | linkedin.com/in/denise-sison | New York, New York
 
 ## Professional Summary
 
